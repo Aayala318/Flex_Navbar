@@ -1,0 +1,33 @@
+.nav{
+    background-color: cornflowerblue;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+img{
+    padding: 20px 80px 20px 20px;
+    max-height: 80px;
+    max-width: 80px;
+}
+h1{
+    font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
+    color: ghostwhite;
+}
+ul{
+    list-style: none;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    font-size: 15px;
+}
+a{
+    text-decoration: none;
+    color: ghostwhite;
+}
+li{
+    padding-right: 10px;
+    padding-left: 200px;
+}
+#space{
+    padding-left: 400px;
+}
